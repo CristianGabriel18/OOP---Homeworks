@@ -19,3 +19,8 @@ greutate, hrana preferata, cantitate pe zi.
 - despre caprioara - numarul de pui. 
 
 Sa se construiasca o clasa compusa CRezervatie care va contine un numar de animale; sa se populeze rezervatia. 
+
+
+Enunt modificat pe parcursul rezolvarii problemei. Folosite in plus : 
+- supraincarcarea operatorului << pentru afisarae listei ce contine obiectele claselor derivate din clasa de baza(animalele)
+- functii virtuale.
