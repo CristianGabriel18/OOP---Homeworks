@@ -6,7 +6,7 @@ perimetrului.
 
 ----------------------------------------------------------------------------------------------------------------
 Enunt modificat pe parcursul rezolvarii problemei. Folosite in plus : 
-- supraincarcarea operatorului << pentru afisarae listei ce contine obiectele claselor derivate din clasa de baza(animalele)
+- supraincarcarea operatorului << pentru afisarea listei ce contine obiectele claselor derivate din clasa de baza(figurile)
 - functii virtuale.
 - functii pur virtuale si clase abstracte.
 ----------------------------------------------------------------------------------------------------------------
