@@ -10,3 +10,11 @@ jucatori extrag pe rând carti din pachet si câstiga cel care are suma
 valorilor egal sau cât mai apropiata (dar mai mic) decât 21. 
 c) Sa se modifice problema 3 prin crearea unei noi clase
 asociate jocului de carti “21” (“Blackjack” sau “Twenty-one” sau “Vingtet-un”). 
+
+
+// problema facuta acum ceva timp.
+
+TO DO:
+// de rearanjat clasele
+// de eliminat variabilele globale
+// de simplificat algoritmii folositi
